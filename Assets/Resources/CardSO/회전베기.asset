@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c641dc7ae8bf24cb90b28e990a555a, type: 3}
+  m_Name: "\uD68C\uC804\uBCA0\uAE30"
+  m_EditorClassIdentifier: 
+  rarity: 1
+  cardName: "\uD68C\uC804\uBCA0\uAE30"
+  cardCost: 2
+  dice:
+  - diceType: 1
+    diceMin: 3
+    diceMax: 6
+    characterMotion: 6
+    atkEffect: {fileID: 21300000, guid: 01cc4f33f3e70fc43b92cd233e7e5d86, type: 3}
+    diceEffect:
+      type: 1
+      effect: {fileID: 11400000, guid: 424e64b1c1fe32843b0fcfa87d89f3dd, type: 2}
+      value: 1
+      desc: "<color=yellow>\uC801\uC911</color> \uB2E4\uC74C \uB9C9\uC5D0 \uCD9C\uD608
+        1 \uBD80\uC5EC"
+  - diceType: 0
+    diceMin: 2
+    diceMax: 5
+    characterMotion: 5
+    atkEffect: {fileID: 21300000, guid: 7ea04147541ec9a488a3d37dc899302e, type: 3}
+    diceEffect:
+      type: 1
+      effect: {fileID: 11400000, guid: 424e64b1c1fe32843b0fcfa87d89f3dd, type: 2}
+      value: 1
+      desc: "<color=yellow>\uC801\uC911</color> \uB2E4\uC74C \uB9C9\uC5D0 \uCD9C\uD608
+        1 \uBD80\uC5EC"
+  - diceType: 0
+    diceMin: 1
+    diceMax: 2
+    characterMotion: 7
+    atkEffect: {fileID: 21300000, guid: 29d4dfcf6f05fd748aec46ad5a4b4a8b, type: 3}
+    diceEffect:
+      type: 0
+      effect: {fileID: 0}
+      value: 0
+      desc: 
+  image: {fileID: 21300000, guid: 87434a112d332ed4cb1fdc1491219b51, type: 3}
+  useEffect: {fileID: 0}

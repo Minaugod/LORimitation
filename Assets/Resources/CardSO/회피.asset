@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c641dc7ae8bf24cb90b28e990a555a, type: 3}
+  m_Name: "\uD68C\uD53C"
+  m_EditorClassIdentifier: 
+  cardRarity: 0
+  cardName: "\uD68C\uD53C"
+  cardCost: 0
+  dice:
+  - diceType: 4
+    diceMin: 8
+    diceMax: 10
+    characterMotion: 3
+    atkEffect: {fileID: 0}
+    diceEffect:
+      type: 0
+      effect: {fileID: 0}
+      value: 0
+      desc: 
+  image: {fileID: 21300000, guid: e3b8e2b48e5e61b4b99c4e1c5a806a73, type: 3}
+  useEffect: {fileID: 0}

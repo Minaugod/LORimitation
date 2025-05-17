@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: aca482356c346774eac9061f8a45abbf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1723
+        width: 28
+        height: 11
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01870728dc383bf458543baeb4b8fac9
+      internalID: -758512377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1723
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a406bb32463514582405180b4d64da
+      internalID: -1268189805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_2
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1723
+        width: 24
+        height: 7
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd085c956be3c94e9601a1fb26eb3aa
+      internalID: 148521298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1725
+        width: 26
+        height: 7
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a33ff3a76e0564ebdd6d7f220d787b
+      internalID: 1185269973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1208
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd7b266428c464cb918d7baa0fc004
+      internalID: 2114724236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1205
+        width: 27
+        height: 11
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb7a000049b2f743a7ab01c75c8c3ec
+      internalID: -648818424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_6
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1205
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5749183272913a84d96e8ce12210cdbc
+      internalID: -2014473147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_8
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1208
+        width: 29
+        height: 12
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f58dd0ac92fc443a3d5654f8360d5f
+      internalID: -2114331605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 699
+        width: 31
+        height: 11
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa4c9577e18d44eb0b68c9739454ab
+      internalID: 816098808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 698
+        width: 34
+        height: 10
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0706b7b92b764e8bf186aceba24dd
+      internalID: 493975919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_11
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 698
+        width: 34
+        height: 12
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a696c142c4af8b4a911a494cd7069e6
+      internalID: -1345247647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_12
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 699
+        width: 15
+        height: 5
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc12021904bfe014bb56bdd0e72dba75
+      internalID: -1368021914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 183
+        width: 27
+        height: 8
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1c8e94c217cd4cb1e5604bf34405d
+      internalID: 1942648958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Damaged_1_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 181
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706fe137850f54d48bebcfd223f0629b
+      internalID: 143859873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mouth_Front_Damaged_1_5: -648818424
+      Mouth_Front_Damaged_1_3: 1185269973
+      Mouth_Front_Damaged_1_12: -1368021914
+      Mouth_Front_Damaged_1_2: 148521298
+      Mouth_Front_Damaged_1_11: -1345247647
+      Mouth_Front_Damaged_1_1: -1268189805
+      Mouth_Front_Damaged_1_9: 816098808
+      Mouth_Front_Damaged_1_8: -2114331605
+      Mouth_Front_Damaged_1_6: -2014473147
+      Mouth_Front_Damaged_1_4: 2114724236
+      Mouth_Front_Damaged_1_10: 493975919
+      Mouth_Front_Damaged_1_14: 143859873
+      Mouth_Front_Damaged_1_7: 657621249
+      Mouth_Front_Damaged_1_13: 1942648958
+      Mouth_Front_Damaged_1_0: -758512377
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

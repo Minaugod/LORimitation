@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 103d94b9221d1f64e9baaef63a1a0185
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1779
+        width: 71
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916c0c023a3a9d4cb47e5f7d76edbe8
+      internalID: 1802788303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_0
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1776
+        width: 65
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4ef96f9c2d314d9639b5c4d6dc4e8
+      internalID: 1042947114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_1
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1771
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dd431322fbed340a061621576332ec
+      internalID: 401482129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_2
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1775
+        width: 81
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb97ac3303b1f428a397ccda9858e4
+      internalID: 906923109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1264
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf72aeff2604fb40a5de5f8f7ad4279
+      internalID: -1433269743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_4
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1264
+        width: 74
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8a0cede4e70744abf50610a742853
+      internalID: -821292491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_5
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1253
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c03c30953921c44bc2ad04b49f9a90
+      internalID: -1202032506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_6
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1264
+        width: 73
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05acd7d753bdf7d4a805c34e5fdcbc7b
+      internalID: 534225818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 747
+        width: 85
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f77782b43958848b48b0b7fa547d80
+      internalID: -515089254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 753
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52bb6feb37c261468ddf79c019e81c3
+      internalID: 1673692647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 751
+        width: 63
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffa46fa710604b40aafc3cb5153e09b
+      internalID: -193302365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_10
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 751
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2d25f2a899894684dc544b1181e0b
+      internalID: 519972341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 237
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a5b2f041c90e4f9f7356c9fced0bc
+      internalID: 51443057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyebrow_Front_Normal_1_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 232
+        width: 71
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e6b372c6d45de4b9c86d1c7fc346ea
+      internalID: -539538750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Eyebrow_Front_Normal_1_0: 1042947114
+      Eyebrow_Front_Normal_1_1: 401482129
+      Eyebrow_Front_Normal_1_10: 519972341
+      Eyebrow_Front_Normal_1_11: 51443057
+      Eyebrow_Front_Normal_1_12: -539538750
+      Eyebrow_Front_Normal_1_13: -1859882581
+      Eyebrow_Front_Normal_1_14: 1210686285
+      Eyebrow_Front_Normal_1_15: 1310994666
+      Eyebrow_Front_Normal_1_16: 155635453
+      Eyebrow_Front_Normal_1_17: 488735226
+      Eyebrow_Front_Normal_1_18: 969945981
+      Eyebrow_Front_Normal_1_19: 572117799
+      Eyebrow_Front_Normal_1_2: 906923109
+      Eyebrow_Front_Normal_1_20: 1045033350
+      Eyebrow_Front_Normal_1_21: -726346295
+      Eyebrow_Front_Normal_1_22: -1180014505
+      Eyebrow_Front_Normal_1_23: -1350731881
+      Eyebrow_Front_Normal_1_24: 1255960991
+      Eyebrow_Front_Normal_1_25: 383421758
+      Eyebrow_Front_Normal_1_26: 1671415425
+      Eyebrow_Front_Normal_1_27: -286004565
+      Eyebrow_Front_Normal_1_28: 1802788303
+      Eyebrow_Front_Normal_1_3: -1433269743
+      Eyebrow_Front_Normal_1_4: -821292491
+      Eyebrow_Front_Normal_1_5: -1202032506
+      Eyebrow_Front_Normal_1_6: 534225818
+      Eyebrow_Front_Normal_1_7: -515089254
+      Eyebrow_Front_Normal_1_8: 1673692647
+      Eyebrow_Front_Normal_1_9: -193302365
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

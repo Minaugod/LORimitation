@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: cb947358683483c4b9a0226b076eb6a3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmotionBar_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 366
+        width: 161
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e430ae82e14124cb898ccfe4b9d59c
+      internalID: 1352384538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 427
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ff811434e9f28428e069f7c6a0730f
+      internalID: -528079321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_16
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 427
+        width: 150
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ffac737de11d41bb977ced77a4544
+      internalID: -358723624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 427
+        width: 146
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cbbed21e854b04e9ac74fa200e37ae
+      internalID: -1562249576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_18
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 427
+        width: 128
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f5fe043615fd4fa034feb30e284df
+      internalID: 428821552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_29
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 427
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fb647066b430b4e9f71f301002ee84
+      internalID: 706484994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 366
+        width: 255
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7adfc639734f439c3c4f510ccfc36
+      internalID: 441490648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_45
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 366
+        width: 219
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69955b2ba60e6e54ca9fafc37129bd13
+      internalID: -1729406401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_46
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 366
+        width: 241
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b443b1231b5f4f85afc3994698e96
+      internalID: 1062103541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_47
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 366
+        width: 209
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62806990caef47548b826ac34f674d61
+      internalID: -127523186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_48
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 366
+        width: 188
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb46dd4513fb4254186eaf2543bcacdf
+      internalID: 1003532607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_49
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 366
+        width: 178
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe1c31abd0db345b4e57858da14143
+      internalID: 414658909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 1920
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd0ff682f485c45ab61ac4c41e3027
+      internalID: -471136555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_60
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 232
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841645c1e961b3140b0a6fba23021210
+      internalID: -1513920892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_61
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 295
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8906239121c1203469c03fff41ae6444
+      internalID: 547445936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_62
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 233
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4013b6c90992154aa2c907aad65a9ad
+      internalID: 1126104088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_63
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 135
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ec1796b6be7546a1acbebdfc651dd
+      internalID: 436956217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_64
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 26
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d589a82cf70fbd4a9441864076fad88
+      internalID: 1668852931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionBar_65
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 105
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a3956d82d43934ca9cdb01911a8ff9
+      internalID: -894012862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EmotionBar_66: 369353415
+      EmotionBar_0: 1352384538
+      EmotionBar_39: 1928101885
+      EmotionBar_35: 1873343867
+      EmotionBar_24: -1794943601
+      EmotionBar_32: 1780713378
+      EmotionBar_43: -184455804
+      EmotionBar_55: 1269030344
+      EmotionBar_19: -1615254902
+      EmotionBar_68: -26460705
+      EmotionBar_69: 993461847
+      EmotionBar_51: -408890007
+      EmotionBar_49: 414658909
+      EmotionBar_11: 665228570
+      EmotionBar_18: 428821552
+      EmotionBar_56: -2144144796
+      EmotionBar_25: 129405295
+      EmotionBar_2: 1499917303
+      EmotionBar_17: -1562249576
+      EmotionBar_47: -127523186
+      EmotionBar_7: -1058335238
+      EmotionBar_38: -1252954213
+      EmotionBar_44: 441490648
+      EmotionBar_48: 1003532607
+      EmotionBar_42: 620038628
+      EmotionBar_4: 952975684
+      EmotionBar_1: 1425880104
+      EmotionBar_36: -1138159848
+      EmotionBar_53: 1932574187
+      EmotionBar_64: 1668852931
+      EmotionBar_22: -1072201446
+      EmotionBar_63: 436956217
+      EmotionBar_31: -1452570939
+      EmotionBar_16: -358723624
+      EmotionBar_28: -756028595
+      EmotionBar_30: -166463951
+      EmotionBar_29: 706484994
+      EmotionBar_65: -894012862
+      EmotionBar_50: 1423306627
+      EmotionBar_40: -992072777
+      EmotionBar_6: 386619583
+      EmotionBar_62: 1126104088
+      EmotionBar_23: 1651505607
+      EmotionBar_57: -1042761284
+      EmotionBar_14: -974384503
+      EmotionBar_21: 1832977801
+      EmotionBar_5: -93415454
+      EmotionBar_3: -114535046
+      EmotionBar_52: 975316332
+      EmotionBar_60: -1513920892
+      EmotionBar_26: 338136492
+      EmotionBar_58: -371381067
+      EmotionBar_72: 1758400162
+      EmotionBar_12: 2126020480
+      EmotionBar_10: 1593951106
+      EmotionBar_41: 2117270539
+      EmotionBar_34: -564446218
+      EmotionBar_33: 1323833310
+      EmotionBar_20: -317343716
+      EmotionBar_73: 1963466394
+      EmotionBar_13: -528079321
+      EmotionBar_27: -959880460
+      EmotionBar_37: -126835416
+      EmotionBar_45: -1729406401
+      EmotionBar_59: -471136555
+      EmotionBar_61: 547445936
+      EmotionBar_46: 1062103541
+      EmotionBar_9: -500767956
+      EmotionBar_54: -1530369708
+      EmotionBar_15: -88996363
+      EmotionBar_67: -896798494
+      EmotionBar_8: 1762971717
+      EmotionBar_71: -579973051
+      EmotionBar_70: -244248728
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 6aa7347c023843c43a9055d0a6f024a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1720
+        width: 22
+        height: 14
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b0d43624c1f54cba7466f3f2819bb
+      internalID: -1850603577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1716
+        width: 26
+        height: 22
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28415024a5dd1a148a45c523a9f23a2d
+      internalID: 232637906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_2
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1715
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713df1fb1b3b1034fbd2deb504467bf0
+      internalID: -928441399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_3
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1718
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba6c7f8f4e636c419c657b1c629de22
+      internalID: 1877804985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1204
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd5848953a967458174c5823e6fc50
+      internalID: 429335649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1207
+        width: 29
+        height: 13
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6caaa2cbf2e4646a935f0937a48cfd
+      internalID: -1461204356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1201
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9608d1f1ebc6046bcc3aafacb1caa9
+      internalID: 33463830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_7
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1208
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d781c1ea7e17e334eb46f41a274c44c8
+      internalID: 112124874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 696
+        width: 32
+        height: 14
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7740a385114bd24f976f08a365bb3f9
+      internalID: 962782202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 698
+        width: 41
+        height: 16
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6ed8df0c93254b93254c836b67bad
+      internalID: -1852468750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_10
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 695
+        width: 53
+        height: 26
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aeed2b0fb0a0440b43e735bd7aa7ff
+      internalID: 111336779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 696
+        width: 15
+        height: 11
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238281deb1da3d04b9407ca563388044
+      internalID: 766065592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 184
+        width: 30
+        height: 11
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef37d49a0b8ee43bd34da591f6c0d2
+      internalID: -1939235133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth_Front_Atk_1_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 183
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 100, y: 199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887906c926349e4487189d1d0c92187
+      internalID: 1565981136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mouth_Front_Atk_1_10: 111336779
+      Mouth_Front_Atk_1_6: 33463830
+      Mouth_Front_Atk_1_7: 112124874
+      Mouth_Front_Atk_1_4: 429335649
+      Mouth_Front_Atk_1_11: 766065592
+      Mouth_Front_Atk_1_12: -1939235133
+      Mouth_Front_Atk_1_13: 1565981136
+      Mouth_Front_Atk_1_0: -1850603577
+      Mouth_Front_Atk_1_3: 1877804985
+      Mouth_Front_Atk_1_8: 962782202
+      Mouth_Front_Atk_1_1: 232637906
+      Mouth_Front_Atk_1_2: -928441399
+      Mouth_Front_Atk_1_5: -1461204356
+      Mouth_Front_Atk_1_9: -1852468750
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

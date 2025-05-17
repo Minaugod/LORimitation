@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c641dc7ae8bf24cb90b28e990a555a, type: 3}
+  m_Name: "\uD758\uB824\uCE58\uAE30"
+  m_EditorClassIdentifier: 
+  cardName: "\uD758\uB824\uCE58\uAE30"
+  cardCost: 1
+  dice:
+  - diceType: 3
+    diceMin: 2
+    diceMax: 4
+    characterMotion: 2
+    atkEffect: {fileID: 21300000, guid: e749dc6cfb62ed44aa5dae807a6fb197, type: 3}
+    diceEffect:
+      type: 0
+      effect: 0
+      value: 0
+      desc: 
+  - diceType: 0
+    diceMin: 3
+    diceMax: 5
+    characterMotion: 5
+    atkEffect: {fileID: 21300000, guid: 7ea04147541ec9a488a3d37dc899302e, type: 3}
+    diceEffect:
+      type: 0
+      effect: 0
+      value: 0
+      desc: 
+  image: {fileID: 21300000, guid: 7575d0ebbd7aed645b7d84228e30501d, type: 3}
+  useEffect: {fileID: 0}

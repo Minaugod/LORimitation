@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 754cbf54d592d0940a1377fbff4485b4, type: 3}
+  m_Name: LeaderLibrarian
+  m_EditorClassIdentifier: 
+  address: Assets/DATAS/KeyPageData/LeaderLibrarian.asset
+  rarity: 1
+  pageName: "\uB3C4\uC11C\uAD00 \uC9C0\uC815\uC0AC\uC11C"
+  appearance: {fileID: 2491566201524022973, guid: cdf926343ddfbfb4e8fdcf9827eae048, type: 3}
+  iconSprite: {fileID: 21300000, guid: d3e024939839edf418c180af23bcc886, type: 3}
+  glowIconSprite: {fileID: 21300000, guid: 2d233c155e7e6e74a9be09aaeebcf50d, type: 3}
+  thumbSprite: {fileID: 0}
+  hp: 259
+  staggerResist: 658
+  spdDiceMin: 26
+  spdDiceMax: 43
+  slashDmgResist: 2
+  pierceDmgResist: 1
+  bluntDmgResist: 3
+  slashStaggerResist: 2
+  pierceStaggerResist: 1
+  bluntStaggerResist: 3
+  passiveEffects:
+  - {fileID: 11400000, guid: c5a8a696583571b47b66c490bdd0bea1, type: 2}

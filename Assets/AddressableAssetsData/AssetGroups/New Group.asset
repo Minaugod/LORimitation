@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: New Group
+  m_EditorClassIdentifier: 
+  m_GroupName: New Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 665551e5b2bd9f34083ad177970fc150
+  m_SerializeEntries:
+  - m_GUID: e2fb6799e3e5e084fa387aa0d3049b96
+    m_Address: Assets/DATAS/KeyPageData/LeaderLibrarian.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d418a619ae9c1c142bb38e8f48854ff2
+    m_Address: Assets/DATAS/KeyPageData/Lenny.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 732a2df05bbf1d34cba2609e609ce1e6
+    m_Address: Assets/DATAS/KeyPageData/AssistantLibrarian.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39409b82d03f91648b2de93eed5ec3be
+    m_Address: Assets/DATAS/KeyPageData/Pete.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 482a23a6c43ece84ea61ae2839ba5c5d
+    m_Address: Assets/DATAS/KeyPageData/Finn.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3a3480936d70c648a86e14e0815b107
+    m_Address: Assets/DATAS/KeyPageData/Zwei_Fixer.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1f923fc4cf66df6419ecdee4b43fb8ee, type: 2}
+  m_SchemaSet:
+    m_Schemas: []

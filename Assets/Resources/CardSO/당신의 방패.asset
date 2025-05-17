@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c641dc7ae8bf24cb90b28e990a555a, type: 3}
+  m_Name: "\uB2F9\uC2E0\uC758 \uBC29\uD328"
+  m_EditorClassIdentifier: 
+  cardRarity: 1
+  cardName: "\uB2F9\uC2E0\uC758 \uBC29\uD328"
+  cardCost: 2
+  dice:
+  - diceType: 3
+    diceMin: 2
+    diceMax: 4
+    characterMotion: 2
+    atkEffect: {fileID: 21300000, guid: e749dc6cfb62ed44aa5dae807a6fb197, type: 3}
+    diceEffect:
+      type: 2
+      effect: {fileID: 11400000, guid: fb11d501b5c4d5247ab7ff20eb9295b7, type: 2}
+      value: 2
+      desc: "<color=yellow>[\uD569 \uC2B9\uB9AC]</color> \uB300\uC0C1\uC5D0\uAC8C
+        \uD53C\uD574 2"
+  - diceType: 0
+    diceMin: 2
+    diceMax: 5
+    characterMotion: 5
+    atkEffect: {fileID: 21300000, guid: 7ea04147541ec9a488a3d37dc899302e, type: 3}
+    diceEffect:
+      type: 0
+      effect: {fileID: 0}
+      value: 0
+      desc: 
+  - diceType: 0
+    diceMin: 2
+    diceMax: 5
+    characterMotion: 7
+    atkEffect: {fileID: 21300000, guid: 29d4dfcf6f05fd748aec46ad5a4b4a8b, type: 3}
+    diceEffect:
+      type: 0
+      effect: {fileID: 0}
+      value: 0
+      desc: 
+  image: {fileID: 21300000, guid: e2e9ace7067250e4482db72738381bc8, type: 3}
+  useEffect: {fileID: 0}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5c641dc7ae8bf24cb90b28e990a555a, type: 3}
+  m_Name: "\uC9D1\uC911\uACF5\uACA9"
+  m_EditorClassIdentifier: 
+  cardName: "\uC9D1\uC911\uACF5\uACA9"
+  cardCost: 3
+  dice:
+  - diceType: 0
+    diceMin: 3
+    diceMax: 5
+    characterMotion: 5
+    atkEffect: {fileID: 21300000, guid: 01efa73b3c1e84c4297c58f5867a3728, type: 3}
+    diceEffect:
+      type: 0
+      effect: 0
+      value: 0
+      desc: 
+  - diceType: 0
+    diceMin: 3
+    diceMax: 5
+    characterMotion: 7
+    atkEffect: {fileID: 21300000, guid: a9731fdf68708204984b72001c581942, type: 3}
+    diceEffect:
+      type: 0
+      effect: 0
+      value: 0
+      desc: 
+  - diceType: 1
+    diceMin: 1
+    diceMax: 3
+    characterMotion: 6
+    atkEffect: {fileID: 21300000, guid: 2b2e73baf4cb3184f89e0fd6dfb20712, type: 3}
+    diceEffect:
+      type: 0
+      effect: 0
+      value: 0
+      desc: 
+  image: {fileID: 21300000, guid: 4b2326612dd76d34ca5155ea6b572782, type: 3}
+  useEffect: {fileID: 0}

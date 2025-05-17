@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Resist
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1962698646, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1649417435, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -1892186618, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 218751584, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 258585539, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 580104925, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1020082045, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -2046492701, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -1938543205, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 629875820, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 518491083, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -715116802, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1877224902, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 680333794, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -791334095, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -383604961, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -152512768, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1191567285, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1115493045, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -547042855, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1932970495, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -1908569655, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 158406179, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -626723369, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 836239909, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -398211772, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -1230417080, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1002045309, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 40601139, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: 1186543053, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -955235369, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  - {fileID: -515897775, guid: 0096d518120eec8478603b1d79fdacdf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - StaggerBluntEndured
+  - StaggerBluntFatal
+  - DmgSlashNormal
+  - DmgPierceEndured
+  - DmgPierceWeak
+  - StaggerPierceFatal
+  - StaggerSlashIneffective
+  - Atlas_30
+  - Atlas_31
+  - StaggerBluntNormal
+  - DmgBluntIneffective
+  - DmgPierceFatal
+  - StaggerPierceEndured
+  - DmgSlashIneffective
+  - StaggerBluntIneffective
+  - DmgBluntNormal
+  - StaggerPierceNormal
+  - StaggerBluntWeak
+  - DmgPierceNormal
+  - DmgPierceIneffective
+  - StaggerSlashEndured
+  - DmgBluntEndured
+  - StaggerSlashWeak
+  - StaggerPierceIneffective
+  - DmgSlashWeak
+  - StaggerSlashFatal
+  - DmgBluntWeak
+  - DmgSlashEndured
+  - DmgSlashFatal
+  - StaggerSlashNormal
+  - DmgBluntFatal
+  - StaggerPierceWeak
+  m_RenderDataMap: {}
+  m_Tag: Resist
+  m_IsVariant: 0

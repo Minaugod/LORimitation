@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 754cbf54d592d0940a1377fbff4485b4, type: 3}
+  m_Name: Mangchi
+  m_EditorClassIdentifier: 
+  address: 
+  rarity: 0
+  pageName: "\uB9DD\uCE58"
+  appearance: {fileID: 0}
+  iconSprite: {fileID: 21300000, guid: 71e93bb0b3187f846a22d80f158397b7, type: 3}
+  glowIconSprite: {fileID: 21300000, guid: a8f33fd4e9c6462479783bd366c722bf, type: 3}
+  thumbSprite: {fileID: 21300000, guid: e3bdc71c364a4f046af39e9ff664027d, type: 3}
+  hp: 10
+  staggerResist: 5
+  spdDiceMin: 1
+  spdDiceMax: 2
+  slashDmgResist: 1
+  pierceDmgResist: 0
+  bluntDmgResist: 2
+  slashStaggerResist: 1
+  pierceStaggerResist: 0
+  bluntStaggerResist: 2
+  passiveEffects: []

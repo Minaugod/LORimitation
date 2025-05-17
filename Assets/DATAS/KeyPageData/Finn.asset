@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 754cbf54d592d0940a1377fbff4485b4, type: 3}
+  m_Name: Finn
+  m_EditorClassIdentifier: 
+  address: Assets/DATAS/KeyPageData/Finn.asset
+  rarity: 0
+  pageName: "\uD540"
+  appearance: {fileID: 0}
+  iconSprite: {fileID: 21300000, guid: 2967c07bb6d24c44c8e0715a6b0361a9, type: 3}
+  glowIconSprite: {fileID: 21300000, guid: ea700ce5d9a7f9844a3ab7f5a8e9d1c4, type: 3}
+  thumbSprite: {fileID: 0}
+  hp: 102
+  staggerResist: 302
+  spdDiceMin: 1
+  spdDiceMax: 5
+  slashDmgResist: 2
+  pierceDmgResist: 0
+  bluntDmgResist: 1
+  slashStaggerResist: 2
+  pierceStaggerResist: 0
+  bluntStaggerResist: 1
+  passiveEffects: []
